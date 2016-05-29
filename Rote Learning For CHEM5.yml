@@ -62,9 +62,10 @@ Transition Metals
     * bonds - Multidentate
 
 Catalysts
-  Same state      - Homogenous
-  Different State - Heterogeneous
-  Autocatalysis - Reaction product acts as a catalyst for the reaction
+  States
+    Same state      - Homogenous
+    Different State - Heterogeneous
+  Autocatalysis   - Reaction product acts as a catalyst for the reaction
 
 Lewis
   Lewis acid - accepts electron pair
@@ -74,3 +75,8 @@ Metal Aqua Ions
   Always Acidic
   Adding OH ions produces insoluble hydroxide ions
     (same for NH3, CO3 ions)
+
+Ligand Substition
+  Positive entropy - greater stability
+  Can be partial
+  Different sizes - different coordination number
