@@ -10,10 +10,11 @@ Factors effecting entropy
 Gibbs Free Energy
   <= 0 - Reaction feasible
   >  0 - Reaction not feasible
+  ΔG = ΔH-TΔS
 
 Period 3
-  Ionic Oxides (Mg, Na) are Alkaline
-  Ionic Oxides (P, S) are Acidic
+  P3 Ionic Oxides (Mg, Na) are Alkaline
+  P3 Ionic Oxides (P, S) are Acidic
     P4O10 -> H3PO4
     SO2   -> H2SO3
     SO3   -> H2SO4
@@ -44,12 +45,13 @@ Non Rechargeable Batteries
     More waste produced
 
 Transition Metals
-  Partially filled D subshell
-  High density
-  High melting, boiling points
-  Good catalysts - Haber process
-  Variable oxidation states
-  Form coloured ions
+  Characteristics:
+    Partially filled D subshell
+    High density
+    High melting, boiling points
+    Good catalysts - e.g. Haber process
+    Variable oxidation states
+    Form coloured ions
   Complex ions (ligands): - with COORDINATE bonds
     6 bonds - Octahedral
     4 bonds - Tetrahedral
@@ -71,3 +73,4 @@ Lewis
 Metal Aqua Ions
   Always Acidic
   Adding OH ions produces insoluble hydroxide ions
+    (same for NH3, CO3 ions)
