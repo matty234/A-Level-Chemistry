@@ -8,8 +8,8 @@ Factors effecting entropy
   More Particles
 
 Gibbs Free Energy
-  <= 0 , Reaction feasible
-  >  0 , Reaction not feasible
+  <= 0 - Reaction feasible
+  >  0 - Reaction not feasible
 
 Period 3
   Ionic Oxides (Mg, Na) are Alkaline
@@ -18,13 +18,22 @@ Period 3
   Reactions in air:
     Na, Mg - Vigorous
     Al, Si - Slow
-    
+  Flames:
+    Na - Yellow
+    Mg - White
+    P  - White
+    S  - Blue
+  Boiling/Melting Points:
+    Ionic (MgO, Na2O, Al2O3) - High (because ionic lattices, many bonds)
+      MgO Stronger than Na2O because Mg donates 2 electrons
+    Giant Macromolecular (SiO2) - Medium
+    Simple Molecular (P4O10, SO2) - Low (only weak intermolecular forces)
 
 Electrochemical Series
   More negative - better at undergoing oxidation / reducing agents
   More positive - better at undergoing reduction / oxidizing agent
 
-Non-Rechargeable Batteries
+Non Rechargeable Batteries
   Advantages
     Cheaper
   Disadvantages
@@ -32,4 +41,4 @@ Non-Rechargeable Batteries
     More waste produced
 
 Transition Metals
-  Partially Filled D-Subshell
+  Partially filled D sub-shell
