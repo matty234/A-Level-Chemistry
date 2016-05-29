@@ -64,7 +64,7 @@ Transition Metals
 Catalysts
   States
     Same state      - Homogenous
-    Different State - Heterogeneous
+    Different State - Heterogeneous (e.g. Contact process see below)
   Autocatalysis   - Reaction product acts as a catalyst for the reaction
 
 Lewis
@@ -80,3 +80,10 @@ Ligand Substition
   Positive entropy - greater stability
   Can be partial
   Different sizes - different coordination number
+
+
+Contact Process
+  Oxidation of SO2 into SO3 by V5+:
+    2SO2 + 4V5+ + 2O2− → 2SO3 + 4V4+
+  Oxidation of V4+ back into V5+ by oxygen (catalyst regeneration):
+    4V4+ + O2 → 4V5+ + 2O2−
