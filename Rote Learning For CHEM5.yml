@@ -15,9 +15,9 @@ Gibbs Free Energy
 Period 3
   P3 Ionic Oxides (Mg, Na) are Alkaline
   P3 Ionic Oxides (P, S) are Acidic
-    P4O10 -> H3PO4
-    SO2   -> H2SO3
-    SO3   -> H2SO4
+    P4O10 → H3PO4
+    SO2   → H2SO3
+    SO3   → H2SO4
   Oxides Formed: Na2O, MgO, Al2O3, SiO2, P4O10, SO2
   Reactions in air:
     Na, Mg - Vigorous
@@ -87,3 +87,7 @@ Contact Process
     2SO2 + 4V5+ + 2O2− → 2SO3 + 4V4+
   Oxidation of V4+ back into V5+ by oxygen (catalyst regeneration):
     4V4+ + O2 → 4V5+ + 2O2−
+
+Haber Process
+  Iron catalyst
+  N2 + 3H2 → 2NH3
